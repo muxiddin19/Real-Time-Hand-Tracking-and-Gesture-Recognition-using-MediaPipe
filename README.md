@@ -1,8 +1,10 @@
 # Real-Time-Hand-Tracking-and-Gesture-Recognition-using-MediaPipe
 This project implements real-time hand tracking and hand gesture recognition using Google's MediaPipe framework. The system accurately detects and tracks hand landmarks in real time, enabling gesture-based interaction. Future updates will extend this work to support VR headsets and Leap Motion devices.
-Overview
+
+
 ![hand_tracking_resultU](https://github.com/user-attachments/assets/22649b35-5bf8-424b-998d-ff948318af3e)
 ![hand_tracking_resultB](https://github.com/user-attachments/assets/2daee80c-7220-4841-b0f0-571595a74718)
+
 
 # Features
 
