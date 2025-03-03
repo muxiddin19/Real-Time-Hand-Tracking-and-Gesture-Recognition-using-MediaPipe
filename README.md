@@ -62,7 +62,7 @@ Contributions are welcome! Feel free to fork the repository and submit pull requ
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
-
+- https://blog.tensorflow.org/2020/03/face-and-hand-tracking-in-browser-with-mediapipe-and-tensorflowjs.html
 - Google MediaPipe Team
 
 - Open-source contributors
