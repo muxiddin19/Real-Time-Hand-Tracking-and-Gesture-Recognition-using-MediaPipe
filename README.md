@@ -31,7 +31,7 @@ git clone https://github.com/yourusername/mediapipe-hand-tracking.git
 cd mediapipe-hand-tracking
 
 # Create a virtual environment (optional but recommended)
-python -m venv venv
+python -m venv venv(hand_tracking)
 source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
 
 # Install dependencies
