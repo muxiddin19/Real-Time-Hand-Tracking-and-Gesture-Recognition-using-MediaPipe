@@ -1,6 +1,5 @@
 #The code has been modified to prioritize the headset webcam for hand detection while using other webcams to help with occluded fingers. Here are the key changes:
-![hand_tracking_result]...
-(https://github.com/user-attachments/assets/01913461-c302-4630-9a7f-1e6ba17bb3d5)
+![hand_tracking_result](https://github.com/user-attachments/assets/01913461-c302-4630-9a7f-1e6ba17bb3d5)
 
 ## 1. **Camera Classification**:
    - Added an `is_headset` parameter to identify the primary headset camera
